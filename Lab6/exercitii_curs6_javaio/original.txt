@@ -1,0 +1,4 @@
+Alfabetul limbii române este totalitatea literelor folosite pentru scrierea limbii române.
+În prezent conține 31 de litere și folosește cele 26 de caractere ale alfabetului latin la care se adaugă o serie de 5 caractere suplimentare formate prin aplicarea de semne diacritice
+Toate literele sunt perechi: literă mare (majusculă sau capitală) și literă mică (minusculă sau de rând)
+Confuzia legată de sedilă este legată de însuși modul în care este definită sedila

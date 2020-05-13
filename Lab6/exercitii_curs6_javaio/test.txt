@@ -1,0 +1,111 @@
+The second hand on my watch stops
+All my focus is just on you
+I don’t want anything else
+As long as you come to me
+
+I promise no danger, forget your fear
+Trust me, I won’t make you regret it
+A drop of curiosity spreads through your heart and attacks you
+
+Follow me cuz I’m so desperate, you pretend not to know
+Come into this desperate time
+You’ve shaken me up completely
+Stay for a lot longer, desperate
+desperate
+
+I asked you
+What fairy tale you dreamt of
+There’s nothing I can’t do
+So I’ll put you in your own paradise
+
+I’ll throw my body into it harder and make a path first
+Because for you, it’s possible
+A missed step changes your fate, overwhelms you
+
+Follow me cuz I’m so desperate, you pretend not to know
+Come into this desperate time
+You’ve shook up my everything
+Stay for a lot longer, desperate
+desperate
+
+HA I thirst for you
+I deny everything that isn’t you
+And kick out in rebellion
+Yeah, even if you’re an oasis without a drop of water
+I gotta crush on you
+I’m never done paying my dues
+In my dreams I stop at nothing ho
+I’m struggling
+Even if everything is pandemonium, I’m desperate again
+
+All that I need is your name
+Engraved deeply in my mind
+
+Tell me If you’re so desperate, I pretend not to know
+I’ll turn away in the frozen time
+The only thing I know for sure is you can’t forget me
+
+Come back and find me, desperate
+desperate
+
+I can’t let go of you, you can’t let go of me
+Completely desirously desperate
+Oh desperate
+import
+java.io.*;
+import
+java.util.Scanner;
+public
+class
+Ex2
+{
+public
+static
+void
+main(String[]
+args)
+{
+try
+{
+String
+fileName
+=
+"src/Ex2.java";
+String
+output
+=
+"test.txt";
+Scanner
+in
+=
+new
+Scanner(new
+File(fileName));
+String
+line;
+BufferedWriter
+writer
+=
+new
+BufferedWriter(new
+FileWriter(output,
+true));
+while
+(in.hasNext())
+{
+line
+=
+in.next();
+writer.append('\n');
+writer.append(line);
+}
+writer.close();
+}
+catch
+(IOException
+e)
+{
+e.printStackTrace();
+}
+}
+}
