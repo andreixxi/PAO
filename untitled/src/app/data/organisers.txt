@@ -1,4 +1,0 @@
-3
-organiser1 22500f 
-organiser2 18500.25f 
-organiser3 95000.5f 

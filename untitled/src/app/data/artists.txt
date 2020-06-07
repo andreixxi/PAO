@@ -1,5 +1,0 @@
-4
-2ne1 true false true 10.07.2020 12.07.2020 15.08.2020
-vixx false true false 11.06.2020 19.06.2020 02.07.2020 05.07.2020
-(g)i-dle true true false
-mamamoo false false true 01.07.2020
